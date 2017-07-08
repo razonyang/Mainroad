@@ -65,8 +65,7 @@ html {
 
 body {
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
-	font-size: 14px;
-	font-size: 0.875rem;
+	font-size: 16px;
 	line-height: 1.6;
 	background: #f7f7f7;
 	word-wrap: break-word;
@@ -539,8 +538,8 @@ select {
 }
 
 .meta {
-	font-size: 13px;
-	font-size: 0.8125rem;
+	font-size: 16px;
+	font-size: 1rem;
 	vertical-align: baseline;
 }
 
@@ -553,7 +552,7 @@ select {
 }
 
 .meta span {
-	margin-right: 10px;
+	margin: 0 10px;
 }
 
 .meta .icon {

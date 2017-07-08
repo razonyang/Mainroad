@@ -7,9 +7,13 @@ tags = ["blog", "responsive", "widgets", "rss", "disqus", "google analytics", "w
 features = ["blog", "responsive", "widgets", "rss", "disqus", "wordpress"]
 min_version = 0.20
 
-[author]
+[[author]]
   name = "Vimux"
   homepage = "https://github.com/vimux"
+
+[[author]]
+  name = "Razon Yang"
+  homepage = "https://github.com/razonyang"
 
 # If porting an existing theme
 [original]
