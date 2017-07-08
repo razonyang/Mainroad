@@ -263,10 +263,11 @@ pre {
 	border: 1px solid #ebebeb;
 	padding: 20px;
 	padding: 1.25rem;
-	white-space: pre-wrap;
+	white-space: pre;
 	white-space: -o-pre-wrap;
 	white-space: -moz-pre-wrap;
 	white-space: -webkit-pre-wrap;
+	overflow-x: auto;
 }
 
 kbd {
