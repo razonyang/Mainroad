@@ -533,6 +533,13 @@ select {
 	font-size: 1.75rem;
 }
 
+.page-content h1, .page-content h2, .page-content h3, .page-content h4,
+.page-content h5, .page-content h6, .page-content p,
+.page-content .row {
+	margin-bottom: 20px;
+	margin-bottom: 1.25rem;
+}
+
 .page-content {
 	margin-bottom: 20px;
 	margin-bottom: 1.25rem;
